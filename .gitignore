@@ -1,0 +1,4 @@
+*.db
+*.log
+*.html
+__pycache__*
